@@ -18,7 +18,7 @@ public class MersedesBensTests extends BaseTest {
     }
 
     @Test
-    //@DisplayName("Сортеруем Mercedes Benz GLC по цене")
+    @DisplayName("Сортеруем Mercedes Benz GLC по цене")
     public void sortingMercedesBenzGLKByPrice() {
         baseSteps.openMain();
     }
