@@ -22,5 +22,4 @@ public class MersedesBensTests extends BaseTest {
     public void sortingMercedesBenzGLKByPrice() {
         baseSteps.openMain();
     }
-
 }
